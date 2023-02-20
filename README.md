@@ -1,5 +1,8 @@
 # projet_admin_(Astridgninofoun)
 
+# Capture dela creation du spring
+![image](https://user-images.githubusercontent.com/125743270/219988224-06660d72-0fe2-4eaa-b554-d766e26ffea3.png)
+
 # Activation du Xampp
 ![Xampp](https://user-images.githubusercontent.com/125743270/219980025-dc137c59-98bc-43f6-a164-6ee62ecd6ef5.png)
 
